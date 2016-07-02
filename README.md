@@ -23,3 +23,41 @@ Finally, our MainActivity Screen which displays a list of nearby hospitals (or t
 Email, WebsiteLink and Call actions can be performed by implicit intents to the android system. The directions option is also an implicit intent using which GoogleMaps is displayed with navigation to the desired hospital.
 
 Finally, the user can also change his/her location from MainActivity screen anytime he/she wants by choosing the locationPicker option from the AppBar.
+
+<b>ScreenShots of the App</b>
+
+<b>SplashScreen</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/SplashScreen.png" width="250" height="420"/>
+
+<b>LoginScreen(1)</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/LoginScreen(1).png" width="250" height="420"/>
+
+<b>LoginScreen(2)</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/LoginScreen(2).png" width="250" height="420"/>
+
+<b>LocationScreen(1)</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/LocationScreen(1).png" width="250" height="420"/>
+
+<b>LocationScreen(2)</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/LocationScreen(2).png" width="250" height="420"/>
+
+<b>MainScreen</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/MainScreen.png" width="250" height="420"/>
+
+<b>CallScreen</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/CallScreen.png" width="250" height="420"/>
+
+<b>WebsiteScreen</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/WebsiteScreen.png" width="250" height="420"/>
+
+<b>DirectionsScreen</b>
+
+<img src="https://github.com/aditya-code-blooded/DoctorApp/blob/master/screenshots/DirectionsScreen.png" width="250" height="420"/>
