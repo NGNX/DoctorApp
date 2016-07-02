@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/hospital_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="HospitalName"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/hospital_category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textSize="14sp"
+        android:textColor="@color/light_grey"
+        android:text="HospitalCategory"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/hospital_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="Address Address Address Address Address Address Address Address"
+        android:padding="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/hospital_contact"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:src="@drawable/hospital_image_phone"
+            android:layout_gravity="center_vertical"
+            android:clickable="true"/>
+
+        <ImageView
+            android:id="@+id/hospital_email"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/hospital_image_email"
+            android:layout_gravity="center_vertical"
+            android:clickable="true"/>
+
+        <ImageView
+            android:id="@+id/hospital_website"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:src="@drawable/hospital_image_website"
+            android:layout_gravity="center_vertical"
+            android:clickable="true"/>
+
+        <ImageView
+            android:id="@+id/hospital_directions"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:src="@drawable/hospital_image_directions"
+            android:layout_gravity="center_vertical"
+            android:clickable="true"/>
+
+    </LinearLayout>
+
+</LinearLayout>

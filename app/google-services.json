@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361527413300",
+    "project_id": "doctorapp-7a097"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361527413300:android:5ffea555ef5051c9",
+        "android_client_info": {
+          "package_name": "com.projects.android.chaditya.doctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361527413300-u5dase3qq3a2e4psvl8374e1rmh4vlqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.android.chaditya.doctorapp",
+            "certificate_hash": "75B31C302E08A2D9CF21818E8678B066752C50BC"
+          }
+        },
+        {
+          "client_id": "361527413300-tbsha9te8s89pr0p6vde7jd4ihf569ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYMEY5JRQ0Tx_92oVFt1XuP85S26L72I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

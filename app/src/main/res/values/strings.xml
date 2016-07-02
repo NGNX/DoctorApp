@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">DoctorApp</string>
+    <string name="facebook_app_id">1634751666851190</string>
+    <string name="enable_gps">ENABLE GPS</string>
+    <string name="pick_location">PICK LOCATION</string>
+    <string name="api_key_for_data_gov_in">2acc2d0ff92aaada838f43bdda7174a3</string>
+    <string name="resource_id_for_data_gov_in">7d208ae4-5d65-47ec-8cb8-2a7a7ac89f8c</string>
+    <string name="SHARE">SHARE</string>
+    <string name="invitation_title">Hey there! Try DoctorApp on PlayStore</string>
+    <string name="invitation_message">Try DoctorApp, which lists nearby hospitals</string>
+    <string name="invitation_cta">Install DoctorApp</string>
 </resources>
